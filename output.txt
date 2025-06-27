@@ -1,0 +1,16 @@
+1. Buyer sends funds to escrow.
+   Escrow holds: 100
+
+2. Seller delivers product. Buyer confirms.
+💰 Funds (100) released to Bob.
+
+--- Alternate Scenario: Dispute ---
+
+1. Buyer sends funds to escrow.
+   Escrow holds: 100
+
+2. Buyer raises a dispute.
+⚖️ Dispute raised. Funds (100) held for resolution.
+
+3. Escrow refunds buyer due to dispute.
+🔙 Funds (100) refunded to Alice.
